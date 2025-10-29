@@ -11,7 +11,7 @@ export default function Hero() {
 					height={96}
 					className='object-contain'
 				/>
-				<h1 className='sm:text-6xl text-5xl text-white lg:max-w-lg font-bold leading-[120%]'>
+				<h1 className='sm:text-6xl text-5xl text-white lg:max-w-xl font-bold leading-[120%]'>
 					Explore The <span className='red-gradient'>Diverse Realms</span> of Anime Magic
 				</h1>
 			</div>
