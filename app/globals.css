@@ -3,13 +3,12 @@
 body {
 	@apply m-0;
 	background-color: #000;
-	font-family: 'Montserrat Alternates', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
 
 .red-gradient {
-	background: linear-gradient(92deg, #ff5956 2.87%, #ee1e38 96.18%);
+	background: linear-gradient(92deg, #ff5956 2.87%, #9d8b8d 96.18%);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
