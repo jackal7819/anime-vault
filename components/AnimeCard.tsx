@@ -21,7 +21,7 @@ export default function AnimeCard({ anime }: Prop) {
 	return (
 		<div className='relative w-full max-w-sm rounded'>
 			<div className='relative w-full h-[37vh]'>
-				<Image src={anime.image.original} alt={anime.name} fill className='rounded-xl' />
+				<Image src={`https://shikimori.one${anime.image.original}`} alt={anime.name} fill className='rounded-xl' />
 			</div>
 			<div className='flex flex-col gap-3 py-4'>
 				<div className='flex items-center justify-between gap-1'>
